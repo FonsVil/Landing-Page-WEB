@@ -21,3 +21,11 @@ h1{
     background: url("../images/peakpx.svg") no-repeat center center;
     background-size: cover;
 }
+#img_principal p{
+    text-align: center; 
+    padding-top: 7%; 
+    color: white; 
+    font-weight: bold; 
+    -webkit-text-stroke: 1.5px black; 
+    font-size: 35pt;
+}
