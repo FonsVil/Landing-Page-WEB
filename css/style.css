@@ -1,0 +1,23 @@
+h1{
+    color: aliceblue;
+}
+
+.nav-container{
+    background-color: rgb(59, 59, 252);
+}
+
+.nav-container a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 6px;
+}
+.nav-container a:hover{
+    color: darkorange;
+}
+
+#img_principal {
+    width: 100%;
+    height: 450pt;
+    background: url("../images/peakpx.svg") no-repeat center center;
+    background-size: cover;
+}
